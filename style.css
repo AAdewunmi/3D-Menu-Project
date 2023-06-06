@@ -21,3 +21,9 @@ html {
   display: flex;
   justify-content: space-evenly;
 }
+
+.menu-item {
+  width: 20rem;
+  height: 15rem;
+  background-color: #5588dd;
+}
