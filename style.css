@@ -49,6 +49,11 @@ html {
     translateY(-15rem) translateY(-50rem);
 }
 
+.menu:hover .menu-item:nth-child(2) {
+  transform: rotateY(-70deg) rotateX(20deg) translateX(-20rem) translateY(-5rem)
+    translateY(-20rem);
+}
+
 .menu-item i {
   font-size: 7rem;
   color: #222;
